@@ -25,12 +25,13 @@ namespace ConsoleApp1
                         break;
                     }
                 }
-                if (flag == 1)
+                if (flag == 0)
                 {
                     Console.WriteLine(min);
                     flag = 0;
                 }
                 min++;
+                flag=0;
             }
             }
         }
