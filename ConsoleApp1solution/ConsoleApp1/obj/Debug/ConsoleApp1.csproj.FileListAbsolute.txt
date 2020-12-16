@@ -1,0 +1,7 @@
+C:\LTI BootCamp\GIT\Day2Question\ConsoleApp1solution\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\LTI BootCamp\GIT\Day2Question\ConsoleApp1solution\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\LTI BootCamp\GIT\Day2Question\ConsoleApp1solution\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\LTI BootCamp\GIT\Day2Question\ConsoleApp1solution\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\LTI BootCamp\GIT\Day2Question\ConsoleApp1solution\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\LTI BootCamp\GIT\Day2Question\ConsoleApp1solution\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\LTI BootCamp\GIT\Day2Question\ConsoleApp1solution\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
